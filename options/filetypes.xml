@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="TestTemplateClass" type="JAVA" />
+      <mapping pattern="test-settings-rest-properties" type="PLAIN_TEXT" />
+      <mapping pattern="TestTemplateClass.java" type="PLAIN_TEXT" />
+      <mapping pattern="doc_dontcommit.feature" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping ext="pd" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
